@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: libraryoftheravenous.github.io
+  baseUrl: akanthasaurae.github.io
   ignorePatterns:
     - private
     - templates
