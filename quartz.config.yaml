@@ -14,12 +14,13 @@ configuration:
     - .obsidian/plugins
     - .obsidian/themes
   theme:
-    fontOrigin: selfHosted
+    fontOrigin: local
     cdnCaching: false
     typography:
-      header: AritaBuriSB
-      body: AritaBuriL
+      header: AritaBuri
+      body: AritaBuri
       code: "Jetbrains Mono"
+      title: AritaBuri
     colors:
       lightMode:
         light: "#faf8f8"
