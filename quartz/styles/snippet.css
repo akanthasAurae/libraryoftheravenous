@@ -59,20 +59,21 @@ html[saved-theme="dark"] body > .page#quartz-root > div#quartz-body > div.sideba
   --font-text: 'AritaBuri';
 
   background-image:
-        url('../../content/assets/bg/aStarLayer05.png'), 
-        url('../../content/assets/bg/aStarLayer04.png'),
-        url('../../content/assets/bg/aStarLayer03.png'),
-        url('../../content/assets/bg/aStarLayer02.png'),
-        url('../../content/assets/bg/aStarLayer01.png'),
-        url('../../content/assets/bg/StarBackground.png');
+  /*https://raw.githubusercontent.com/akanthasAurae/vyxenspngs/refs/heads/main/vyxens/stuff/8oclockcircus.png*/
+        url('https://raw.githubusercontent.com/akanthasAurae/vyxenspngs/refs/heads/main/vyxens/stuff/bg/aStarLayer05.png'), 
+        url('https://raw.githubusercontent.com/akanthasAurae/vyxenspngs/refs/heads/main/vyxens/stuff/bg/aStarLayer04.png'),
+        url('https://raw.githubusercontent.com/akanthasAurae/vyxenspngs/refs/heads/main/vyxens/stuff/bg/aStarLayer03.png'),
+        url('https://raw.githubusercontent.com/akanthasAurae/vyxenspngs/refs/heads/main/vyxens/stuff/bg/aStarLayer02.png'),
+        url('https://raw.githubusercontent.com/akanthasAurae/vyxenspngs/refs/heads/main/vyxens/stuff/bg/aStarLayer01.png'),
+        url('https://raw.githubusercontent.com/akanthasAurae/vyxenspngs/refs/heads/main/vyxens/stuff/bg/StarBackground.png');
   animation: planetariumBackground 120s linear infinite;
   background-size: 1200px 800px, 600px 400px, 600px 400px,600px 400px,600px 400px,600px 400px;
 	background-blend-mode: color-dodge;
 	background-color: #090511;
 	&::after {
 		background-image: 
-            		url('../../content/assets/bg/aStarLayer03.png'),
-            		url('../../content/assets/bg/aStarLayer02.png');
+            		url('https://raw.githubusercontent.com/akanthasAurae/vyxenspngs/refs/heads/main/vyxens/stuff/bg/aStarLayer03.png'),
+            		url('https://raw.githubusercontent.com/akanthasAurae/vyxenspngs/refs/heads/main/vyxens/stuff/bg/aStarLayer02.png');
         	background-size: 600px 400px;
         	background-repeat: repeat;
         	position: absolute;
@@ -148,7 +149,7 @@ html[saved-theme="dark"] body > .page#quartz-root > div#quartz-body > div.sideba
   background-color: #0000003b;
   backdrop-filter: blur(10px);
   border: 30px solid transparent;
-  border-image: url('../../assets/border.png') 150 stretch;
+  border-image: url('https://raw.githubusercontent.com/akanthasAurae/vyxenspngs/refs/heads/main/vyxens/stuff/border.png') 150 stretch;
   border-image-width: 45px;
   display: flex;
   justify-content: center;
@@ -167,7 +168,7 @@ html[saved-theme="dark"] body > .page#quartz-root > div#quartz-body > div.sideba
       flex-wrap: nowrap;
       justify-content: center;
       align-items: center;
-      background-image: url('../../assets/book.png');
+      background-image: url('https://raw.githubusercontent.com/akanthasAurae/vyxenspngs/refs/heads/main/vyxens/stuff/book.png');
       background-size: contain;
       background-repeat: no-repeat;
       background-position: center;
