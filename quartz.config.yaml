@@ -14,7 +14,7 @@ configuration:
     - .obsidian/plugins
     - .obsidian/themes
   theme:
-    fontOrigin: local
+    fontOrigin: selfHosted
     cdnCaching: false
     typography:
       header: AritaBuri
@@ -113,7 +113,7 @@ plugins:
   - source: github:quartz-community/fonts
     enabled: true
     options:
-      fontOrigin: local
+      fontOrigin: selfHosted
       useThemeFonts: false
       header: AritaBuri
       body: AritaBuri
