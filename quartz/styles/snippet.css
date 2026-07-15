@@ -1,13 +1,13 @@
 @font-face {
   font-family: 'AritaBuri';
-  src: url('https://github.com/akanthasAurae/vyxenspgs/vyxens/stuff/fonts/AritaBuriSB.ttf') format('truetype');
+  src: url('..\static\fonts\AritaBuriB.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'AritaBuri';
-  src: url('https://github.com/akanthasAurae/vyxenspgs/vyxens/stuff/fonts/AritaBuriL.ttf') format('truetype');
+  src: url('..\static\fonts\AritaBuriB.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
