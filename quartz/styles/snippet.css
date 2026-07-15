@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'AritaBuri';
-  src: url('../../../static/fonts/AritaBuriSB.ttf') format('truetype');
+  src: url('../static/fonts/AritaBuriSB.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: 'AritaBuri';
-  src: url('../../../static/fonts/AritaBuriL.ttf') format('truetype');
+  src: url('../static/fonts/AritaBuriL.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -59,20 +59,20 @@ html[saved-theme="dark"] body > .page#quartz-root > div#quartz-body > div.sideba
   --font-text: 'AritaBuri';
 
   background-image:
-        url('../../assets/bg/aStarLayer05.png'), 
-        url('../../assets/bg/aStarLayer04.png'),
-        url('../../assets/bg/aStarLayer03.png'),
-        url('../../assets/bg/aStarLayer02.png'),
-        url('../../assets/bg/aStarLayer01.png'),
-        url('../../assets/bg/StarBackground.png');
+        url('../../content/assets/bg/aStarLayer05.png'), 
+        url('../../content/assets/bg/aStarLayer04.png'),
+        url('../../content/assets/bg/aStarLayer03.png'),
+        url('../../content/assets/bg/aStarLayer02.png'),
+        url('../../content/assets/bg/aStarLayer01.png'),
+        url('../../content/assets/bg/StarBackground.png');
   animation: planetariumBackground 120s linear infinite;
   background-size: 1200px 800px, 600px 400px, 600px 400px,600px 400px,600px 400px,600px 400px;
 	background-blend-mode: color-dodge;
 	background-color: #090511;
 	&::after {
 		background-image: 
-            		url('../../assets/bg/aStarLayer03.png'),
-            		url('../../assets/bg/aStarLayer02.png');
+            		url('../../content/assets/bg/aStarLayer03.png'),
+            		url('../../content/assets/bg/aStarLayer02.png');
         	background-size: 600px 400px;
         	background-repeat: repeat;
         	position: absolute;
