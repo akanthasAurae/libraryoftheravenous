@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'AritaBuri';
-  src: url('../static/fonts/AritaBuriSB.ttf') format('truetype');
+  src: url('/static/fonts/AritaBuriSB.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: 'AritaBuri';
-  src: url('../static/fonts/AritaBuriL.ttf') format('truetype');
+  src: url('/static/fonts/AritaBuriL.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
