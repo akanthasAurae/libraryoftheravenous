@@ -161,7 +161,7 @@ html[saved-theme="dark"] body > .page#quartz-root > div#quartz-body > div.sideba
   align-items: center;
   flex-direction: column;
   flex-wrap: nowrap;
-  max-width: 30vw;
+  width: 50em;
   & > .pre-book {
     display: flex;
     flex-direction: row;
