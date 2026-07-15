@@ -16,7 +16,7 @@ publish: true
 			<br>YOU WILL BE CONVERTED INTO A BOOK YOURSELF.
 		</p>
 		<h2>Book Of the Day</h2>
-		<img src="footer.png">
+		<img src="https://raw.githubusercontent.com/akanthasAurae/vyxenspngs/refs/heads/main/vyxens/stuff/footer.png">
 		<div class="pre-book">
 			<div class="book">
 				<a href="Book of the Starved.md" style="background-color:transparent;">Book of the Starved</a>
