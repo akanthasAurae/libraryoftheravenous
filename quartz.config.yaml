@@ -111,12 +111,12 @@ plugins:
     enabled: false
     order: 92
   - source: github:quartz-community/fonts
-    enabled: 
+    enabled: true
     options:
-      fontOrigin: selfHosted
-      useThemeFonts: true
-      header: AritaBuriSB
-      body: AritaBuriL
+      fontOrigin: local
+      useThemeFonts: false
+      header: AritaBuri
+      body: AritaBuri
       code: "Jetbrains Mono"
   - source: github:quartz-community/remove-draft
     enabled: true
