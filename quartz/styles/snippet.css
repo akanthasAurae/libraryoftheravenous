@@ -1,13 +1,13 @@
 @font-face {
   font-family: 'AritaBuri';
-  src: url('https://raw.githubusercontent.com/akanthasAurae/libraryoftheravenous/quartz/static/fonts/AritaBuriSB.ttf') format('truetype');
+  src: url('https://github.com/akanthasAurae/libraryoftheravenous/raw/refs/heads/v5/quartz/static/fonts/AritaBuriSB.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'AritaBuri';
-  src: url('https://raw.githubusercontent.com/akanthasAurae/libraryoftheravenous/quartz/static/fonts/AritaBuriL.ttf') format('truetype');
+  src: url('https://github.com/akanthasAurae/libraryoftheravenous/raw/refs/heads/v5/quartz/static/fonts/AritaBuriL.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
